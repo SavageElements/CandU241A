@@ -13,6 +13,8 @@ namespace CandU241A
 
             person241.SayName();
 
+            Console.WriteLine();
+
         }
     }
 }
